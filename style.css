@@ -14,7 +14,7 @@ header span{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     height: 100%;
-    font-size: 3em;
+    font-size: 3vmax;
     vertical-align: middle;
 }
 
