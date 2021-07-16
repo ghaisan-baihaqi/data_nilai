@@ -11,10 +11,10 @@ img{
 }
 
 header span{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: monospace, bold;
     font-weight: bold;
     height: 100%;
-    font-size: 3vmax;
+    font-size: 3vw;
     vertical-align: middle;
 }
 
@@ -28,7 +28,7 @@ header span{
 
 div#bahasaIndonesia, div#matematika, div#ipa, div#ips, div#pjok, div#prakarya, div#pai, div#sb, div#ppkn, div#bJawa, div#bInggris{
     margin: 10px;
-    width: 13em;
+    width: 15em;
     height: 8em;
     text-align: center;
     display: grid;
